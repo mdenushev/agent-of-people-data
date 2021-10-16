@@ -1009,7 +1009,11 @@
     "date": "08.10.2021",
     "reason": "foreign_agent",
     "type": "organization",
-    "aliases": []
+    "aliases": [
+      "Republic",
+      "republic.ru",
+      "Репаблик"
+    ]
   },
   {
     "id": 88,
