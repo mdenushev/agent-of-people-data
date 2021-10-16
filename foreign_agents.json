@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "full_name": "Голос Америки",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "golosameriki.com",
+      "Voice of America",
+      "golosameriki"
+    ]
+  },
+  {
+    "id": 2,
+    "full_name": "Idel.Реалии",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "idelreal.org",
+      "idelreal"
+    ]
+  },
+  {
+    "id": 3,
+    "full_name": "Кавказ.Реалии",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "kavkazr.com",
+      "kavkazr"
+    ]
+  },
+  {
+    "id": 4,
+    "full_name": "Крым.Реалии",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "krymr.com",
+      "krymr"
+    ]
+  },
+  {
+    "id": 5,
+    "full_name": "Телеканал Настоящее Время",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Настоящее Время",
+      "Current Time",
+      "currenttime.tv",
+      "currenttime"
+    ]
+  },
+  {
+    "id": 6,
+    "full_name": "Татаро-башкирская служба Радио Свобода (Azatliq Radiosi)",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Радио Свобода",
+      "Azatliq Radiosi",
+      "azatliq.org",
+      "azatliq"
+    ]
+  },
+  {
+    "id": 7,
+    "full_name": "Радио Свободная Европа/Радио Свобода (PCE/PC)",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Радио Свобода",
+      "Радио Свободная Европа",
+      "svoboda.org",
+      "svoboda"
+    ]
+  },
+  {
+    "id": 8,
+    "full_name": "Сибирь.Реалии",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "sibreal.org",
+      "sibreal"
+    ]
+  },
+  {
+    "id": 9,
+    "full_name": "Фактограф",
+    "date": "05.12.2017",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "factograph",
+      "factograph.info"
+    ]
+  },
+  {
+    "id": 10,
+    "full_name": "Север.Реалии",
+    "date": "15.11.2019",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "severreal.org",
+      "severreal"
+    ]
+  },
+  {
+    "id": 11,
+    "full_name": "ООО \"Радио Свободная Европа/Радио Свобода\"",
+    "date": "11.02.2020",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Радио Свободная Европа",
+      "Радио Свобода",
+      "svoboda.org",
+      "svoboda"
+    ]
+  },
+  {
+    "id": 12,
+    "full_name": "Чешское информационное агентство \"MEDIUM-ORIENT\"",
+    "date": "21.12.2020",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Caucasus Times",
+      "caucasustimes.com",
+      "caucasustimes"
+    ]
+  },
+  {
+    "id": 13,
+    "full_name": "Пономарев Лев Александрович",
+    "date": "28.12.2020",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Лев Пономарев",
+      "Пономарев Лев"
+    ]
+  },
+  {
+    "id": 14,
+    "full_name": "Савицкая Людмила Алексеевна",
+    "date": "28.12.2020",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Савицкая Людмила",
+      "Людмила Савицкая"
+    ]
+  },
+  {
+    "id": 15,
+    "full_name": "Маркелов Сергей Евгеньевич",
+    "date": "28.12.2020",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Маркелов Сергей",
+      "Сергей Маркелов"
+    ]
+  },
+  {
+    "id": 16,
+    "full_name": "Камалягин Денис Николаевич",
+    "date": "28.12.2020",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Камалягин Денис",
+      "Денис Камалягин"
+    ]
+  },
+  {
+    "id": 17,
+    "full_name": "Апахончич Дарья Александровна",
+    "date": "28.12.2020",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Апахончич Дарья",
+      "Дарья Апахончич",
+      "Апахончич Даша",
+      "Даша Апахончич"
+    ]
+  },
+  {
+    "id": 18,
+    "full_name": "SIA «Medusa Project»",
+    "date": "23.04.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Медуза",
+      "medusa.io",
+      "medusa"
+    ]
+  },
+  {
+    "id": 19,
+    "full_name": "Первое антикоррупционное СМИ",
+    "date": "23.04.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "pasmi",
+      "pasmi.ru"
+    ]
+  },
+  {
+    "id": 20,
+    "full_name": "VTimes.io",
+    "date": "14.05.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "vtimes.io",
+      "vtimes"
+    ]
+  },
+  {
+    "id": 21,
+    "full_name": "Баданин Роман Сергеевич",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Баданин Роман",
+      "Роман Баданин"
+    ]
+  },
+  {
+    "id": 22,
+    "full_name": "Гликин Максим Александрович",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Гликин Максим",
+      "Максим Гликин"
+    ]
+  },
+  {
+    "id": 23,
+    "full_name": "Маняхин Петр Борисович",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Маняхин Петр",
+      "Петр Маняхин",
+      "Маняхин Пётр",
+      "Пётр Маняхин"
+    ]
+  },
+  {
+    "id": 24,
+    "full_name": "Ярош Юлия Петровна",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Ярош Юлия",
+      "Юлия Ярош",
+      "Ярош Юля",
+      "Юля Ярош"
+    ]
+  },
+  {
+    "id": 25,
+    "full_name": "Чуракова Ольга Владимировна",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Чуракова Ольга",
+      "Ольга Чуракова",
+      "Чуракова Оля",
+      "Оля Чуракова"
+    ]
+  },
+  {
+    "id": 26,
+    "full_name": "Железнова Мария Михайловна",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Железнова Мария",
+      "Мария Железнова",
+      "Железнова Маша",
+      "Маша Железнова"
+    ]
+  },
+  {
+    "id": 27,
+    "full_name": "Лукьянова Юлия Сергеевна",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Лукьянова Юлия",
+      "Юлия Лукьянова",
+      "Лукьянова Юля",
+      "Юля Лукьянова"
+    ]
+  },
+  {
+    "id": 28,
+    "full_name": "Маетная Елизавета Витальевна",
+    "date": "15.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Маетная Елизавета",
+      "Елизавета Маетная",
+      "Маетная Лиза",
+      "Лиза Маетная"
+    ]
+  },
+  {
+    "id": 29,
+    "full_name": "Юридическое лицо «The Insider SIA»",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "insider",
+      "the insider",
+      "theins.ru",
+      "theins"
+    ]
+  },
+  {
+    "id": 30,
+    "full_name": "Рубин Михаил Аркадьевич",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Рубин Михаил",
+      "Михаил Рубин",
+      "Рубин Миша",
+      "Миша Рубин"
+    ]
+  },
+  {
+    "id": 31,
+    "full_name": "Гройсман Софья Романовна",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Гройсман Софья",
+      "Софья Гройсман",
+      "Гройсман София",
+      "София Гройсман",
+      "Гройсман Соня",
+      "Соня Гройсман"
+    ]
+  },
+  {
+    "id": 32,
+    "full_name": "Рождественский Илья Дмитриевич",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Рождественский Илья",
+      "Илья Рождественский"
+    ]
+  },
+  {
+    "id": 33,
+    "full_name": "Апухтина Юлия Владимировна",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Апухтина Юлия",
+      "Юлия Апухтина",
+      "Апухтина Юля",
+      "Юля Апухтина"
+    ]
+  },
+  {
+    "id": 34,
+    "full_name": "Постернак Алексей Евгеньевич",
+    "date": "23.07.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Постернак Алексей",
+      "Алексей Постернак",
+      "Постернак Леша",
+      "Леша Постернак",
+      "Постернак Лёша",
+      "Лёша Постернак"
+    ]
+  },
+  {
+    "id": 35,
+    "full_name": "ООО Телеканал Дождь",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "дождь",
+      "tvrain.ru",
+      "tvrain"
+    ]
+  },
+  {
+    "id": 36,
+    "full_name": "Петров Степан Юрьевич",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Петров Степан",
+      "Степан Петров",
+      "Петров Степа",
+      "Степа Петров",
+      "Петров Стёпа",
+      "Стёпа Петров"
+    ]
+  },
+  {
+    "id": 37,
+    "full_name": "Юридическое лицо Istories fonds",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "istories",
+      "Важные истории",
+      "istories.media"
+    ]
+  },
+  {
+    "id": 38,
+    "full_name": "Шмагун Олеся Валентиновна",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Шмагун Олеся",
+      "Олеся Шмагун"
+    ]
+  },
+  {
+    "id": 39,
+    "full_name": "Мароховская Алеся Алексеевна",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Мароховская Алеся",
+      "Алеся Мароховская"
+    ]
+  },
+  {
+    "id": 40,
+    "full_name": "Долинина Ирина Николаевна",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Долинина Ирина",
+      "Долинина Ира",
+      "Ира Долинина",
+      "Ирина Долинина"
+    ]
+  },
+  {
+    "id": 41,
+    "full_name": "Шлейнов Роман Юрьевич",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Шлейнов Роман",
+      "Шлейнов Рома",
+      "Рома Шлейнов",
+      "Роман Шлейнов"
+    ]
+  },
+  {
+    "id": 42,
+    "full_name": "Анин Роман Александрович",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Анин Роман",
+      "Анин Рома",
+      "Рома Анин",
+      "Роман Анин"
+    ]
+  },
+  {
+    "id": 43,
+    "full_name": "Великовский Дмитрий Александрович",
+    "date": "20.08.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Великовский ",
+      "Великовский Дима",
+      "Дима Великовский ",
+      "Дмитрий Великовский"
+    ]
+  },
+  {
+    "id": 44,
+    "full_name": "ООО «Альтаир 2021»",
+    "date": "03.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Альтаир 2021"
+    ],
+    "description": "Юридическое лицо Гликина М. А."
+  },
+  {
+    "id": 45,
+    "full_name": "ООО «Ромашки монолит»",
+    "date": "03.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Ромашки монолит"
+    ],
+    "description": "Юридическое лицо Гройсман С. Р., Железновой М. М., Лукьяновой Ю. С., Маняхиным П. Б. и Чураковой О. В."
+  },
+  {
+    "id": 46,
+    "full_name": "ООО «Главный редактор 2021»",
+    "date": "03.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Главный редактор 2021"
+    ],
+    "description": "Юридическое лицо Ярош Ю. П."
+  },
+  {
+    "id": 47,
+    "full_name": "ООО «Вега 2021»",
+    "date": "03.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Вега 2021"
+    ],
+    "description": "Юридическое лицо Рождественского И. Д."
+  },
+  {
+    "id": 48,
+    "full_name": "ООО «Важные иноагенты»",
+    "date": "27.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Важные иноагенты"
+    ],
+    "description": "Огранизация создана командой издания «Важные истории»"
+  },
+  {
+    "id": 49,
+    "full_name": "Каткова Вероника Вячеславовна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Каткова Вероника",
+      "Каткова Ника",
+      "Ника Каткова",
+      "Вероника Каткова"
+    ]
+  },
+  {
+    "id": 50,
+    "full_name": "Карезина Инна Павловна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Карезина Инна",
+      "Инна Карезина"
+    ]
+  },
+  {
+    "id": 51,
+    "full_name": "Кузьмина Людмила Гавриловна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Кузьмина Людмила",
+      "Людмила Кузьмина"
+    ]
+  },
+  {
+    "id": 52,
+    "full_name": "Костылева Полина Владимировна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Костылева Полина",
+      "Полина Костылева"
+    ]
+  },
+  {
+    "id": 53,
+    "full_name": "Лютов Александр Иванович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Лютов Александр",
+      "Александр Лютов"
+    ]
+  },
+  {
+    "id": 54,
+    "full_name": "Жилкин Владимир Владимирович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Жилкин Владимир",
+      "Владимир Жилкин"
+    ]
+  },
+  {
+    "id": 55,
+    "full_name": "Жилинский Владимир Александрович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Жилинский Владимир",
+      "Владимир Жилинский"
+    ]
+  },
+  {
+    "id": 56,
+    "full_name": "Тихонов Михаил Сергеевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Тихонов Михаил",
+      "Михаил Тихонов"
+    ]
+  },
+  {
+    "id": 57,
+    "full_name": "Пискунов Сергей Евгеньевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Пискунов Сергей",
+      "Сергей Пискунов"
+    ]
+  },
+  {
+    "id": 58,
+    "full_name": "Ковин Виталий Сергеевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Ковин Виталий",
+      "Виталий Ковин"
+    ]
+  },
+  {
+    "id": 59,
+    "full_name": "Кильтау Екатерина Викторовна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Кильтау Екатерина",
+      "Екатерина Кильтау"
+    ]
+  },
+  {
+    "id": 60,
+    "full_name": "Любарев Аркадий Ефимович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Любарев Аркадий",
+      "Аркадий Любарев"
+    ]
+  },
+  {
+    "id": 61,
+    "full_name": "Гурман Юрий Альбертович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Гурман Юрий",
+      "Юрий Гурман"
+    ]
+  },
+  {
+    "id": 62,
+    "full_name": "Грезев Александр Викторович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Грезев Александр",
+      "Александр Грезев"
+    ]
+  },
+  {
+    "id": 63,
+    "full_name": "Важенков Артем Валерьевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Важенков Артем",
+      "Артем Важенков"
+    ]
+  },
+  {
+    "id": 64,
+    "full_name": "Иванова София Юрьевна",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Иванова София",
+      "София Иванова"
+    ]
+  },
+  {
+    "id": 65,
+    "full_name": "Пигалкин Илья Валерьевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Пигалкин Илья",
+      "Илья Пигалкин"
+    ]
+  },
+  {
+    "id": 66,
+    "full_name": "Петров Алексей Викторович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Петров Алексей",
+      "Алексей Петров"
+    ]
+  },
+  {
+    "id": 67,
+    "full_name": "Егоров Владимир Владимирович",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Егоров Владимир",
+      "Владимир Егоров"
+    ]
+  },
+  {
+    "id": 68,
+    "full_name": "Гусев Андрей Юрьевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Гусев Андрей",
+      "Андрей Гусев"
+    ]
+  },
+  {
+    "id": 69,
+    "full_name": "Смирнов Сергей Сергеевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Смирнов Сергей",
+      "Сергей Смирнов"
+    ]
+  },
+  {
+    "id": 70,
+    "full_name": "Верзилов Петр Юрьевич",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Верзилов Петр",
+      "Верзилов Пётр",
+      "Петр Верзилов",
+      "Пётр Верзилов"
+    ]
+  },
+  {
+    "id": 71,
+    "full_name": "ООО «ЗП»",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Медиазона",
+      "zona.media"
+    ]
+  },
+  {
+    "id": 72,
+    "full_name": "ООО «Зона Права»",
+    "date": "29.09.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Зона Права"
+    ]
+  },
+  {
+    "id": 73,
+    "full_name": "ООО «ЖУРНАЛИСТ-ИНОСТРАННЫЙ АГЕНТ»",
+    "date": "01.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [],
+    "description": "Юридическое лицо, созданное журналисткой Людмилой Савицкой"
+  },
+  {
+    "id": 74,
+    "full_name": "Вольтская Татьяна Анатольевна",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Вольтская Татьяна",
+      "Татьяна Вольтская"
+    ]
+  },
+  {
+    "id": 75,
+    "full_name": "Клепиковская Екатерина Дмитриевна",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Клепиковская Екатерина",
+      "Екатерина Клепиковская"
+    ]
+  },
+  {
+    "id": 76,
+    "full_name": "Сотников Даниил Владимирович",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Сотников Даниил",
+      "Даниил Сотников"
+    ]
+  },
+  {
+    "id": 77,
+    "full_name": "Захаров Андрей Вячеславович",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Захаров Андрей",
+      "Андрей Захаров"
+    ]
+  },
+  {
+    "id": 78,
+    "full_name": "Симонов Евгений Алексеевич",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Симонов Евгений",
+      "Евгений Симонов"
+    ]
+  },
+  {
+    "id": 79,
+    "full_name": "Сурначева Елизавета Дмитриевна",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Сурначева Елизавета",
+      "Елизавета Сурначева",
+      "Сурначева Лиза",
+      "Лиза Сурначева"
+    ]
+  },
+  {
+    "id": 80,
+    "full_name": "Соловьева Елена Анатольевна",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Соловьева Елена",
+      "Елена Соловьева",
+      "Соловьева Лена",
+      "Лена Соловьева"
+    ]
+  },
+  {
+    "id": 81,
+    "full_name": "Арапова Галина Юрьевна",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Арапова Галина",
+      "Галина Арапова"
+    ]
+  },
+  {
+    "id": 82,
+    "full_name": "Перл Роман Александрович",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "person",
+    "aliases": [
+      "Перл Роман",
+      "Роман Перл"
+    ]
+  },
+  {
+    "id": 83,
+    "full_name": "ООО «МЕМО»",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Кавказский узел",
+      "kavkaz-uzel.eu",
+      "kavkaz-uzel"
+    ]
+  },
+  {
+    "id": 84,
+    "full_name": "«Mason G.E.S. Anonymous Foundation»",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "mnews.world"
+    ]
+  },
+  {
+    "id": 85,
+    "full_name": "«Stichting Bellingcat»",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Bellingcat",
+      "bellingcat.com"
+    ]
+  },
+  {
+    "id": 86,
+    "full_name": "Автономная некоммерческая организация по защите прав человека и информированию населения «Якутия – Наше Мнение»",
+    "date": "14.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "Якутия – Наше Мнение",
+      "Якутия Наше Мнение",
+      "yakutian.org",
+      "yakutian"
+    ]
+  },
+  {
+    "id": 87,
+    "full_name": "ООО «Москоу диджитал медиа»",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": []
+  },
+  {
+    "id": 88,
+    "full_name": "АО «РС-Балт»",
+    "date": "08.10.2021",
+    "reason": "foreign_agent",
+    "type": "organization",
+    "aliases": [
+      "rosbalt",
+      "Росбалт",
+      "rosbalt.ru"
+    ]
+  }
+]
